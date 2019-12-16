@@ -6,3 +6,7 @@ shape/
 5-Njësit-Banesore/regjistri/~$Regjistri-i-pjeseve-te-nderteses.xlsx
 per-ne/output/schema.ini
 per-ne/output/bodrumi_-1.csv
+*.csv
+*.xml
+*.txt
+
