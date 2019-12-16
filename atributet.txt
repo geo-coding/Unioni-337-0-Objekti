@@ -1,1 +1,1 @@
-Nr	Numri_i_njësisë_pjesë_e_ndërtesës			Hyrja	Kati	Sipërfaqja_m²		Adresa_e_Njësisë	Numri_i_adreses	Vendi_i_quajtur	Shfrytëzimi_i_aktual	Pronari_Emri_(Emri_i_prindit)_Mbiemri	Numri_përnal	Pjesa_e_Pronësis	Adresa_e_pronarit
+Nr	Numri_i_njësisë_pjesë_e_ndërtesës			Hyrja	Kati	Sipërfaqja_m²		Adresa_e_Njësisë	Numri_i_adreses	Vendi_i_quajtur	Shfrytëzimi_i_aktual	Pronari_Emri_(Emri_i_prindit)_Mbiemri	Numri_përsonal	Pjesa_e_Pronësis	Adresa_e_pronarit
